@@ -1,4 +1,4 @@
-package com.login.dao;
+/*package com.login.dao;
 
 import static org.junit.Assert.assertEquals;
 
@@ -18,7 +18,7 @@ import org.springframework.test.context.support.AnnotationConfigContextLoader;
 
 import com.login.config.AppConfig;
 import com.login.service.LoginService;
-
+*/
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes=AppConfig.class, loader=AnnotationConfigContextLoader.class)
 public class LoginDaoTest {
