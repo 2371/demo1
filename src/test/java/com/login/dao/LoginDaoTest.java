@@ -94,6 +94,7 @@ public class LoginDaoTest {
 	public void checkUserId() {
 		
 		assertEquals(true,loginDao.checkUserId("ram"));
+		System.out.println("Checking for Building purpose");
 		
 	}
 
