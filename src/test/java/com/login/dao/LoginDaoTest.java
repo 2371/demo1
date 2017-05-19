@@ -1,4 +1,4 @@
-/*package com.login.dao;
+/**package com.login.dao;
 
 import static org.junit.Assert.assertEquals;
 
