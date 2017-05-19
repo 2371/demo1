@@ -40,6 +40,7 @@ public class LoginDaoTest {
 		userCred.put("fincy", "fincy@123");
 		userCred.put("semere", "semere@123");
 		System.out.println("-----> SETUP <-----");
+		System.out.println("changes");
 	}
 	
 	@Before
